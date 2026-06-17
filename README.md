@@ -22,8 +22,7 @@ Sebagai contoh, saat *user* di *frontend* memilih lahan **Hutan Primer** di **Da
 
 Setelah sistem berhasil melakukan *lookup* dan meresolusi semua nilai untuk variabel KH, BIO, dan EF berdasarkan kombinasi yang dipilih *user*, barulah kalkulasi akhir dieksekusi secara dinamis menggunakan rumus:
 
-```math
-\text{Emisi} = \text{luas\_lahan} \times \text{KH} \times \text{BIO} \times \text{EF}
+**Emisi** = luas_lahan &times; KH &times; BIO &times; EF
 
 Dengan cara ini, sebanyak apa pun variasi kombinasi yang ada di lapangan, sistem akan selalu memberikan hasil perhitungan yang akurat tanpa *user* perlu memusingkan kerumitan pemetaan nilai di belakangnya.
 
