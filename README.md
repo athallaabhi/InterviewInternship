@@ -1,4 +1,4 @@
-# Interview Internship — Laravel App
+# Interview Internship - Laravel App
 
 ## Ringkasan Sistem
 
